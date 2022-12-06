@@ -14,7 +14,7 @@
 2. Abrir os terminais/prompts de comandos, no mínimo 3 para conseguir rodar o servidor e os clientes
 <img src="https://cdn.discordapp.com/attachments/886361612125085716/998362338417725440/unknown.png">
 
-3. Rodar os arquivos servidor.py e cliente.py
+3. Rodar os arquivos servidor.py e cliente.py respectivamente
 <img src="https://cdn.discordapp.com/attachments/886361612125085716/998362975389876424/unknown.png">
 
 4. Digitar o nome dos clientes que irão se conectar ao grupo de mensagens e presseionar Enter
